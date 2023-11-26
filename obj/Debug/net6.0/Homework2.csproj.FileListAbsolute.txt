@@ -1,0 +1,14 @@
+C:\Projects\VS_Code_for_git\Homework2\bin\Debug\net6.0\Homework2.exe
+C:\Projects\VS_Code_for_git\Homework2\bin\Debug\net6.0\Homework2.deps.json
+C:\Projects\VS_Code_for_git\Homework2\bin\Debug\net6.0\Homework2.runtimeconfig.json
+C:\Projects\VS_Code_for_git\Homework2\bin\Debug\net6.0\Homework2.dll
+C:\Projects\VS_Code_for_git\Homework2\bin\Debug\net6.0\Homework2.pdb
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfoInputs.cache
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfo.cs
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\Homework2.csproj.CoreCompileInputs.cache
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\Homework2.dll
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\refint\Homework2.dll
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\Homework2.pdb
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\Homework2.genruntimeconfig.cache
+C:\Projects\VS_Code_for_git\Homework2\obj\Debug\net6.0\ref\Homework2.dll
